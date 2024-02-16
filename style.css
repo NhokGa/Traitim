@@ -16,8 +16,8 @@ body {
   filter: contrast(3);
 }
 h1 {
-  width: 90vw;
-  height: 90vh;
+  width: 100vw;
+  height: 100vh;
   position: absolute;
   z-index: 2;
   color: #eee;
